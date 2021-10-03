@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "309396735347",
+    "project_id": "cleancity-e5d3c",
+    "storage_bucket": "cleancity-e5d3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309396735347:android:4d11c61e409dffef0c7106",
+        "android_client_info": {
+          "package_name": "com.example.android.cleancity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309396735347-ttr9oumnj0lhv3g2vcc03a33fdlp0vuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOtyQbShQrkvXSfxV7LAdzBTuErCqugo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309396735347-ttr9oumnj0lhv3g2vcc03a33fdlp0vuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
